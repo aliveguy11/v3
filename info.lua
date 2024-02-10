@@ -28,4 +28,4 @@ local Developers = "AliveGuy", "Rwan", "Hiwo";
 local RunType = "legacy"; --legacy, stable, standardencrypt
 local Port = 8000; --Use 8000 (Standard), 3000 (Secondary), 8080 (If everything is down)
 
-print("running "..RunType..Version.." on Port: "..Port)
+--print("running "..RunType..Version.." on Port: "..Port)
